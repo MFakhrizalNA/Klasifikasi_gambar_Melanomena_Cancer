@@ -64,7 +64,7 @@ Project ini adalah implementasi model klasifikasi citra untuk mendeteksi kanker 
 Clone project ini lalu install semua dependencies:
 
 ```bash
-git clone [https://github.com/username/Klasifikasi_Gambar_Melanoma.git](https://github.com/MFakhrizalNA/Klasifikasi_gambar_Melanomena_Cancer.git)
+git clone https://github.com/MFakhrizalNA/Klasifikasi_gambar_Melanomena_Cancer.git
 cd Klasifikasi_Gambar_Melanoma
 pip install -r requirements.txt
 ```
